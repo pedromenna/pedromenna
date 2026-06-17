@@ -1,6 +1,4 @@
 <p>
-  <!-- <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
-  <br><br> -->
   <samp>
     Hello, I'm <a href="https://www.linkedin.com/in/pedro-menna-635762213/">Pedro</a> working at <a href="https://www.aggrandize.com.br/">@Aggrandize </a>.Interested in learning and exploring more about Platform/Infra engineering and DevOps. 
   </samp>
@@ -26,9 +24,3 @@
 <a href="mailto:pedromenna15@gmail.com">
   <img align="left" alt="Email Pedro Menna" width="21px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b391152ee85e2d30988439157f/svgs/solid/envelope.svg" />
 </a>
-
-<br/><br/>
-
-<p align="center">
-</p>
-<br/><br/>
