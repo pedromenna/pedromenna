@@ -1,6 +1,6 @@
 <p>
   <samp>
-    Hello, I'm <a href="https://www.linkedin.com/in/pedro-menna-635762213/">Pedro</a> working at <a href="https://www.aggrandize.com.br/">@Aggrandize </a>.Interested in learning and exploring more about Platform/Infra engineering and DevOps. 
+    Hello, I'm <a href="https://www.linkedin.com/in/pedro-menna-635762213/">Pedro</a>. Interested in learning and exploring more about Platform/Infra engineering and DevOps. 
   </samp>
 </p>
 
